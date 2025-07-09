@@ -2,7 +2,7 @@
 ## Olá! Meu nome é Bernardo Gutierrez 👋  
 #### Desenvolvedor Front-End em formação
 
-- 🔭 Atualmente estudando e praticando projetos de Front-End  
+- 🔭 Atualmente estou trabalhando em Front-end  
 - 🌱 Aprendendo diariamente HTML, CSS e JavaScript  
 - ⚡ Curiosidade: fui jogador de basquete federado 🏀  
 
