@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**BernardoIGM/BernardoIGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Meu nome é Bernardo Gutierrez 👋  
+#### Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estudando e praticando projetos de Front-End  
+- 🌱 Aprendendo diariamente HTML, CSS e JavaScript  
+- ⚡ Curiosidade: fui jogador de basquete federado 🏀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologias que estou usando
+
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
+
+#### 📫 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/bernardogutierrezm/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
