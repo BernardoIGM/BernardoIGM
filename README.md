@@ -6,7 +6,7 @@
 - 🌱 Aprendendo diariamente HTML, CSS e JavaScript  
 - ⚡ Curiosidade: fui jogador de basquete federado 🏀  
 
-#### 🛠️ Tecnologias que estou usando
+#### 🤖 Linguagens e tecnologias 
 
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
