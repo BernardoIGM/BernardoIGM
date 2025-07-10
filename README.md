@@ -11,9 +11,11 @@
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </a>
+
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </a>
+
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </a>
