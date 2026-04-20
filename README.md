@@ -2,33 +2,26 @@
 
 🚀 **Desenvolvedor Front-End com conhecimentos em Back-End**  
 ⚡ Em evolução para **Full Stack**  
+🏀 Mentalidade de alto rendimento (ex-atleta federado do Basquete) 
 
 💡 Construindo interfaces modernas, responsivas e conectando com lógica de servidor.
-
----
-
-## 🧠 Sobre mim
-
-- 💻 Focado em desenvolvimento web (Front + Back)  
-- 🔥 Evolução constante com prática diária  
-- 🏀 Mentalidade de alto rendimento (ex-atleta federado)  
+🔥 Evolução constante com prática diária 
 
 ---
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="left">
 
-<img align="center" alt="JS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
 
-<img align="center" alt="HTML" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
+</p>
 
 ---
 
@@ -62,14 +55,6 @@ Interface com dados dinâmicos
 Landing page responsiva  
 
 👉 *Mais projetos no meu perfil*
-
----
-
-## 📊 GitHub Stats
-
-![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardogutierrezm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardogutierrezm&layout=compact&theme=tokyonight)
 
 ---
 
